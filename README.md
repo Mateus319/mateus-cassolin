@@ -1,4 +1,3 @@
 # mateus-cassolin
-interrese em aprenser programaçao 
-experiencia com solda
-experiencia com torno 
+interrese em aprender programaçao  
+experiencia com solda e experiencia com torno 
