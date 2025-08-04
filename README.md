@@ -1,2 +1,4 @@
 # mateus-cassolin
-meu repositorio
+interrese em aprenser programaçao 
+experiencia com solda
+experiencia com torno 
